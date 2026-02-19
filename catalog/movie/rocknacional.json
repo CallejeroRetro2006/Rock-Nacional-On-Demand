@@ -5,6 +5,12 @@
       "type": "movie",
       "name": "Indio Solari - Mendoza 2013",
       "poster": "https://cloudfront-us-east-1.images.arcpublishing.com/grupoclarin/7X4RNHJ4KNFYNPMF3QYS7ATY6A.jpg"
+      },
+    {
+      "id": "lospiojos_desdelejosnoseve",
+      "type": "movie",
+      "name": "Los Piojos - Desde Lejos No Se Ve",
+      "poster": "https://images2.imgbox.com/14/8f/OHXpPai4_o.png"
     }
   ]
 }
