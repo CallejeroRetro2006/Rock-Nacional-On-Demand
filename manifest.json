@@ -1,11 +1,11 @@
 {
-  "id": "com.futbolretro2006.rocknacionalvod",
+  "id": "https://github.com/FutbolRetro2006/futbolretro2006.github.io/tree/main",
   "version": "1.0.0",
   "name": "Rock Nacional On Demand",
   "description": "Todo el Rock Argentino en un solo lugar",
   "resources": ["catalog", "meta", "stream"],
   "types": ["movie"],
-  "idPrefixes": ["recital_"],
+  "idPrefixes": ["indio_", "lospiojos_", "callejeros_", "redondos_"]
   "catalogs": [
     {
       "type": "recitales",
