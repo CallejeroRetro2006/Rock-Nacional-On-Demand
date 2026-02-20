@@ -11,6 +11,12 @@
       "type": "movie",
       "name": "Los Piojos - Desde Lejos No Se Ve",
       "poster": "https://images2.imgbox.com/14/8f/OHXpPai4_o.png"
+       },
+    {
+      "id": "babasonicos_qr25",
+      "type": "movie",
+      "name": "Babasónicos - Quilmes Rock 2025",
+      "poster": "https://images2.imgbox.com/41/2d/N0wQ7YRY_o.png"
     }
   ]
 }
